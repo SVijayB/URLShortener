@@ -1,0 +1,23 @@
+{
+  "name": "URLShortner",
+  "version": "1.0.0",
+  "description": "A Free and Simple URL Shortner",
+  "main": "index.js",
+  "scripts": {
+    "shorten": "netlify-shortener"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1StranGe/URLShortner.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1StranGe/URLShortner/issues"
+  },
+  "homepage": "https://github.com/1StranGe/URLShortner#readme",
+  "devDependencies": {
+    "netlify-shortener": "^2.1.1"
+  }
+}
