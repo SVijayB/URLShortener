@@ -23,9 +23,9 @@ npm install --save-dev netlify-shortener
 
 ## Usage
 
-Create a GitHub Repository and initialize it with a `_redirects` file.
+1. Create a GitHub Repository and initialize it with a `_redirects` file.
 
-This _redirects file should contain links to all the websites for which you want to create a short URL in the below format : 
+  This _redirects file should contain links to all the websites for which you want to create a short URL in the below format : 
 
 <pre>
 /go         http://google.com          #Custom URL
@@ -36,11 +36,11 @@ This _redirects file should contain links to all the websites for which you want
 
 You can now modify the contents of your **"_redirects"** file to create your own custom link.
 
-Next, create an account on <a href="https://www.netlify.com/">netlify</a>, log in and select "New site from Git". Select GitHub and give it permissions to access your GitHub repository. Now, choose the GitHub repository that you created earlier and click on deploy. 
+2. Create an account on <a href="https://www.netlify.com/">netlify</a>. Log in and select "New site from Git". Select GitHub and give it permissions to access your GitHub repository. Now, choose the GitHub repository that you created earlier and click on deploy. 
 
-Now, click on your site and navigate to domain settings. Here, choose your custom domain. You can either buy a new one or create a short netlify domain for free.
+3. Click on your site and navigate to domain settings. Here, choose your custom domain. You can either buy a new one or create a short netlify domain for free.
 
-Now, netlify will automatically deploy the result when you push to this repository.
+Netlify will automatically deploy the result when you push to this repository.
 
 Once you are done with this. You can manually create your own short URL by editing the contents of `_redirects` file.
 
@@ -52,17 +52,17 @@ yourdomain.com/go       #should open google.com
 
 However, you can also automate this with a few simple steps.
 
-First, go to your working directory(Your repository), and in your terminal type : `npm init -y`
+1. Go to your working directory(Your repository), and in your terminal type : `npm init -y`
 
 This should create a package.json file.
 
-Now, in your terminal enter :
+2. In your terminal enter :
 
-`npm install --save-dev netlify-shortener`
+    `npm install --save-dev netlify-shortener`
 
 And this should add netlify-shortener to your node_modules.
 
-Now, you will have to edit your package.json file to include netlify-shortener in scripts and modify your baseURL
+3. You will have to edit your package.json file to include netlify-shortener in scripts and modify your baseURL
 
 <pre>
 {
@@ -73,7 +73,7 @@ Now, you will have to edit your package.json file to include netlify-shortener i
 }
 </pre>
 
-Now you are all set and ready to go.
+You are all set and ready to go.
 
 Open your terminal and run this :
 
