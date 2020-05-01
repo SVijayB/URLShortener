@@ -15,7 +15,7 @@ This is a completely free to use and simple tool that lets you create Short Url 
 
 ## Installation
 
-This module is distributed via <a href="https://www.npmjs.com/">npm</a> packet manager, which which is installed along with <a href="https://nodejs.org/en/">node</a> and should be installed as one of your project's `devDependencies`:
+This module is distributed via <a href="https://www.npmjs.com/">npm</a> packet manager, which is contained within <a href="https://nodejs.org/en/">node</a> and should be installed as one of your project's `devDependencies`:
 
 <pre>
 npm install --save-dev netlify-shortener
@@ -44,10 +44,10 @@ Now, netlify will automatically deploy the result when you push to this reposito
 
 Once you are done with this. You can manually create your own short URL by editing the contents of `_redirects` file.
 
-Example : 
+Following the above example, 
 <pre>
-yourdomain.com/gh   should open github.com
-yourdomain.com/go   should open google.com
+yourdomain.com/gh       #should open github.com
+yourdomain.com/go       #should open google.com
 </pre>
 
 However, you can also automate this with a few simple steps.
@@ -79,8 +79,10 @@ Open your terminal and run this :
 
 <pre>
 npm run shorten                         # simply formats your _redirects file
-npm run shorten https://yahoo.com yh    # adds yh as a short URL for you. Hence, yourdomain.com/yh should lead you to yahoo
+npm run shorten https://yahoo.com yh    # adds yh as a short URL for you. 
 </pre>
+
+If you have finished the above steps, `yourdomain.com/yh` should lead you to Youtube.
 
 The `netlify-shortener` does a few things:
 
