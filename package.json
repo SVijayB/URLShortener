@@ -1,6 +1,7 @@
 {
-  "name": "URLShortner",
+  "name": "URLShortener",
   "version": "1.0.0",
+  "baseURL": "https://svj.netlify.app",
   "description": "A Free and Simple URL Shortner",
   "main": "index.js",
   "scripts": {
