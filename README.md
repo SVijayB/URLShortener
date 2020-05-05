@@ -90,6 +90,12 @@ The `netlify-shortener` does a few things:
 2. runs a git commit and push (this will trigger netlify to deploy your new redirect)
 3. Copies the short URL to your clipboard
 
+## Contributing 
+
+To contribute to Steam_WebScrapper, fork the repository, create a new branch and send us a pull request. Make sure you read [CONTRIBUTING.md](https://github.com/1StranGe/URLShortener/blob/master/docs/CONTRIBUTING.md) before sending us Pull requests. 
+
+Also, thanks for contributing to Open-source!
+
 ## License 
 
 URLShortener is Licensed under MIT. Read the LICENSE file for more information.
