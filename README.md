@@ -92,7 +92,7 @@ The `netlify-shortener` does a few things:
 
 ## Contributing 
 
-To contribute to Steam_WebScrapper, fork the repository, create a new branch and send us a pull request. Make sure you read [CONTRIBUTING.md](https://github.com/1StranGe/URLShortener/blob/master/docs/CONTRIBUTING.md) before sending us Pull requests. 
+To contribute to URLShortener, fork the repository, create a new branch and send us a pull request. Make sure you read [CONTRIBUTING.md](https://github.com/1StranGe/URLShortener/blob/master/docs/CONTRIBUTING.md) before sending us Pull requests. 
 
 Also, thanks for contributing to Open-source!
 
