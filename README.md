@@ -5,6 +5,14 @@
     <br>A Free And Simple URL Shortener
 </p>
 
+## Table of Contents
+
+- [Motivation](#Motivation)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Contributing](#Contributing)
+- [License](#License)
+
 ## Motivation
 
 When sites like <a href="https://bitly.com/">Bit.ly</a> and <a href="https://hootsuite.com/pages/owly">Ow.ly</a> are present, why would you want to build a custom short URL? Especially when they offer analytics?
@@ -64,14 +72,14 @@ And this should add netlify-shortener to your node_modules.
 
 3. You will have to edit your package.json file to include netlify-shortener in scripts and modify your baseURL
 
-<pre>
+```json
 {
   "baseUrl": "https://svj.netlify.app",     #Modify to use your custom address.
   "scripts": {
     "shorten": "netlify-shortener"          #Add netlify-shortener to scripts.
   }
 }
-</pre>
+```
 
 You are all set and ready to go.
 
