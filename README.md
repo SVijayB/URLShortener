@@ -72,14 +72,14 @@ And this should add netlify-shortener to your node_modules.
 
 3. You will have to edit your package.json file to include netlify-shortener in scripts and modify your baseURL
 
-```json
+<pre>
 {
   "baseUrl": "https://svj.netlify.app",     #Modify to use your custom address.
   "scripts": {
     "shorten": "netlify-shortener"          #Add netlify-shortener to scripts.
   }
 }
-```
+</pre>
 
 You are all set and ready to go.
 
