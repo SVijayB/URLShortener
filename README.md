@@ -119,7 +119,7 @@ Also, thanks for contributing to Open-source!
 
 ## License 
 
-URLShortener is Licensed under MIT. Read the [LICENSE](https://github.com/1StranGe/URLShortener/blob/master/LICENSE) file for more information.
+URLShortener is under The MIT License. Read the [LICENSE](https://github.com/1StranGe/URLShortener/blob/master/LICENSE) file for more information.
 
 
 
