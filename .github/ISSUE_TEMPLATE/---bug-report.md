@@ -9,7 +9,7 @@ assignees: SVijayB
 
 <!-- ⚠️⚠️ Do Not Delete These Comments. ⚠️⚠️ -->
 <!-- Please read these comments/instructions carefully and do accordingly  -->
-<!-- Read our Rules of Conduct: https://github.com/SVijayB/.github/blob/master/URLShortener/CODE_OF_CONDUCT.md -->
+<!-- Read our Rules of Conduct: https://github.com/SVijayB/URLShortener/blob/master/.github/CODE_OF_CONDUCT.md -->
 <!--- Provide a general summary of your changes in the Title above -->
 
 ### Description

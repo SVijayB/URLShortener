@@ -15,8 +15,8 @@
 [![GitHub release](https://img.shields.io/github/release/SVijayB/URLShortener.svg)](https://github.com/SVijayB/URLShortener/releases)
 [![GitHub repo size](https://img.shields.io/github/repo-size/SVijayB/URLShortener)](https://github.com/SVijayB/URLShortener)
 
-[![Code of Conduct](https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=flat)](https://github.com/SVijayB/.github/blob/master/URLShortener/CODE_OF_CONDUCT.md)
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/SVijayB/.github/blob/master/URLShortener/CONTRIBUTING.md)
+[![Code of Conduct](https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=flat)](https://github.com/SVijayB/URLShortener/blob/master/.github/CODE_OF_CONDUCT.md)
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/SVijayB/URLShortener/blob/master/.github/CONTRIBUTING.md)
 
 ## Table of Contents
 
@@ -113,7 +113,7 @@ The `netlify-shortener` does a few things:
 
 ## Contributing 
 
-To contribute to URLShortener, fork the repository, create a new branch and send us a pull request. Make sure you read [CONTRIBUTING.md](https://github.com/SVijayB/.github/blob/master/URLShortener/CONTRIBUTING.md) before sending us Pull requests. 
+To contribute to URLShortener, fork the repository, create a new branch and send us a pull request. Make sure you read [CONTRIBUTING.md](https://github.com/SVijayB/URLShortener/blob/master/.github/CONTRIBUTING.md) before sending us Pull requests. 
 
 Also, thanks for contributing to Open-source!
 
